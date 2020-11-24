@@ -1,0 +1,243 @@
+/*Atzeko fondoaren kolorentzako da*/		
+body
+ { background-color: #bababa;
+  
+ }
+
+
+.bat 
+
+{
+	text-align: center;
+	margin:	100px;
+}
+			
+.bi 
+
+{
+	text-align: center;
+	 font: small-caps 200%/100% serif;
+	 margin: 50px;
+}
+
+
+
+/*Nabegazio barra*/
+.hiru
+ {
+	background-color: #70a7ff;
+	width: 1320px;
+	height: 75px;
+	float: center;
+	position:fixed;
+	border: 5px solid grey;
+	
+
+}
+
+ul {
+	
+	font: bold small-caps 100%/100% serif;
+	margin: 0;
+	padding: 0;
+	background-color: #333;
+	position: relative; left; 200px;
+	
+
+}
+
+li {
+  float:left;
+  margin: 10px;
+  
+  
+}
+
+li a {
+  display: block;
+  color: Blue;
+  text-align: left;
+  padding: 14px 25px;
+
+  
+}
+
+#lau
+{
+text-align: center;
+}
+
+
+/*Orri oina da*/
+.bost 
+{
+width: 450px;
+height: 450px;
+float: right;
+padding-left: 200px;
+}
+
+#sei
+{
+
+color:blue; 
+	
+}
+
+
+
+
+#zortzi
+{
+width: 250px;
+height: 250px;
+float: left;
+padding-right: 100px;
+}
+	
+#bederatzi
+{
+ Text-align: left;
+ padding-top: 90px;
+ background-color: grey;
+ width: 1320px;
+ height:150px;
+ border: 5px solid #6b6b6b;
+ 
+ }
+ 
+ 
+#hamar
+{
+width: 250px;
+height: 250px;
+float: left;
+padding-right: 100px;
+
+}
+ 
+#hamaika
+{
+ Text-align: left;
+ padding-top: 90px;
+ background-color: grey;
+ width: 1320px;
+ height:120px;
+ border: 5px solid #6b6b6b;
+ padding-top: 120px;
+
+ }
+ 
+#hamabi
+{
+width: 250px;
+height: 250px;
+float: left;
+padding-right: 100px;
+
+}
+
+#hamairu
+{
+ Text-align: left;
+ padding-top: 90px;
+ background-color: grey;
+ width: 1320px;
+ height:120px;
+ border: 5px solid #6b6b6b;
+ padding-top: 120px;
+
+ }
+ 
+ 
+#hamalau
+{
+width: 250px;
+height: 250px;
+float: left;
+padding-right: 100px;
+
+}
+
+
+#hamabost
+{
+ Text-align: left;
+ padding-top: 90px;
+ background-color: grey;
+ width: 1320px;
+ height:120px;
+ border: 5px solid #6b6b6b;
+ padding-top: 120px;
+
+ }
+ 
+ 
+#hamasei
+ {
+width: 300px;
+height: 300px;
+float: right;
+margin-top:100px;
+border:10px solid #171717;
+}
+ 
+ 
+ 
+#hamazazpi
+{
+
+text-align:left;
+color:blue;	
+padding:100px
+	
+}
+ 
+ 
+#hemezortzi
+ {
+width: 300px;
+height: 300px;
+float: left;
+margin-top:100px;
+border:10px solid #171717;
+
+}
+
+
+
+
+#hemeretzi
+{
+
+text-align:right;
+color:blue;	
+padding:100px
+	
+}
+
+
+
+
+#hogei
+ {
+width: 300px;
+height: 300px;
+float: right;
+margin-top:100px;
+border:10px solid #171717;
+
+}
+
+
+
+#hogeitabat
+{
+
+text-align:left;
+color:blue;	
+padding:100px
+	
+}
+
+
